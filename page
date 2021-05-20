@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>MOVIESHEAL</title>
+
+</head>
+<body style="background-color:HoneyDew;">
+
+<body>
+ WELCOME TO MY PAGE MOVIESHEAL
+</body>
+<center><h1>MOVIESHEAL</h1></center>
+<center><h2> [created by Nlanjan Ghosh]</h2></center>
+<center><p1>This page MOVIESHEAL is a movies reviewing page which i am going to make using HTML .
+ Trying to make some good layouts , lets see how far i can go.</p1></centre>
+<h3>I also have a movies reviewing blogging page, please do visit</h3>👉
+<a href="https://moviesheal.blogspot.com">Click hear</a>
+<aside><h2>here are some of my blogs</h2></aside>
+<aside>
+<h2>1.One Flew Over the Cuckoo's Nest (1975)</h2>
+<p2><center>rattings~(8.3/10)</center>
+<blockquote>This movie is really very close to my heart , Nicholson has played his part incredibly.<br>Any other
+actor in  my opinion could not play this role better than him. Jack Nicholson
+also got Oscar for this movie.</p2></blockquote><br>
+<p1><img src="https://2.bp.blogspot.com/-w4HfwLjvvVY/XccU_o6G11I/AAAAAAABGZU/vKRP13SaBMoIN3kAftwUU8yEb7YLy6J9ACK4BGAYYCw/s320/526267.jpg" alt="moviesheal.blogspot.com" width="600" height="300"></p1>
+
+<h2>2.The Truman Show (1998)</h2>
+<p2>Truman is a man whose life is a TV show. Truman doesn't realize that his hometown is a giant studio set.
+<br><p style="color:black;">All the people live there are Hollywood actors who pretend to be his friends and family.<br>
+But eventually he finds out whats goin on and escapes any how from there.<br>You really need to see this movie
+ if you have not.This is JIm Carrey's one of the best movie.</p></p>
+<img src="https://2.bp.blogspot.com/-M3wLlYD5vtw/XcXEueKVkXI/AAAAAAABGUw/uVyWW5HIdgwBW6uhsb73onZ6nTYtSa82ACK4BGAYYCw/s1600/342592.jpg" alt="moviesheal.blogspot.com" width="600" height="300"
+</aside>
+<aside>
+<h2>3.There Will Be Blood</h2>
+<p2>I can’t even say anything about this role or even describe how good this movie is totally speechless.<br> A dialouge is there in this movie ~ "i drink your milkshake"i beleive that goes for oscar   👏</p2>
+</aside><br>
+<body>
+<h1>The audio element</h1>
+<p1>Click on the play button to play the audio element</p1><br>
+<audio controls>
+     <source src="horse.ogg" type="audio/ogg">
+  <source src="A:\new download\audio\All Songs Of Fossils Bengali Band\(webmusic.in)_Abhaga.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
+
+</body>
+<br>
+<p style="color:red;" > I am NIL , aaj Nil rong s mishe galo Laal</p>
+<br><br><br><br><br>
+<h2 title="I'm a header">The title Attribute</h2>
+
+<p title="I'm a tooltip">Mouse over this paragraph, to display the title attribute as a tooltip.</p>
+<br>
+<h2 title="I'm a header">The title Attribute</h2>
+
+<p title="I'm a tooltip">Mouse over this paragraph, to display the title attribute as a tooltip.</p>
+
+</body></html>
